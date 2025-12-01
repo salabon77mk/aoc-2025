@@ -1,6 +1,7 @@
 [workspace]
-members = ["crates/crates/day-02", "crates/crates/day-03",
+resolver = "3"
+members = [ 
   "crates/day-01"
-]
+, "crates/day-02"]
 
 [workspace.dependencies]
