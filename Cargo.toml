@@ -1,0 +1,6 @@
+[workspace]
+members = ["crates/crates/day-02", "crates/crates/day-03",
+  "crates/day-01"
+]
+
+[workspace.dependencies]
