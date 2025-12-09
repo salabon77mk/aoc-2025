@@ -2,6 +2,6 @@
 resolver = "3"
 members = [ 
   "crates/day-01"
-, "crates/day-02", "crates/day-03", "crates/day-04", "crates/day-05", "crates/day-06", "crates/day-07", "crates/day-08", "crates/utils"]
+, "crates/day-02", "crates/day-03", "crates/day-04", "crates/day-05", "crates/day-06", "crates/day-07", "crates/day-08", "crates/day-09", "crates/day-10", "crates/day-11", "crates/day-12", "crates/utils"]
 
 [workspace.dependencies]
